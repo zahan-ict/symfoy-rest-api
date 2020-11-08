@@ -261,3 +261,10 @@ Step 10: Configure .env for database setting. Add this line to .env file
 	
 #### Finish time to test: Open Postman
 
+##### Screenshot of getProduct
+
+![Image description](public/img/getProduct.PNG)
+
+##### Screenshot of postProduct
+![Image description](public/img/postProduct.PNG)
+
